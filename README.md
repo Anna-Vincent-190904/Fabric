@@ -306,19 +306,7 @@ The final solution converts raw retail datasets into structured,
 analytics-ready data and provides a business-facing reporting layer
 through Power BI.
 ---
-👩‍💻 Author
-Anna Vincent
-B.Tech Computer Science & Engineering  
-Data Engineering Trainee
-Areas of Interest
-Data Engineering
-Microsoft Fabric
-Azure
-PySpark
-SQL
-Data Analytics
-Power BI
----
+
 ⭐ Project Highlights
 Built an end-to-end retail data pipeline using Microsoft Fabric
 Implemented Bronze, Silver, and Gold data layers
